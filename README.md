@@ -7,10 +7,14 @@ Hi 👋 My name is Saumya Gupta
 * ✉️  You can contact me at [saumyagupta2025@gmail.com](mailto:saumyagupta2025@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects that have real world implementations.
 
+----
+
+![GitHub Views](https://komarev.com/ghpvc/?username=saumyagupta2025)
+
 <a href="https://www.twitter.com/saumya_812" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/saumya_812?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
-![GitHub Views](https://komarev.com/ghpvc/?username=saumyagupta2025)
+
 ### Skills
 
 <p align="left">
