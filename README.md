@@ -33,13 +33,3 @@ src="https://img.shields.io/twitter/follow/saumya_812?logo=twitter&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/saumyagupta2025" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saumya2029/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/saumya_812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/saumyagupta2025/Health-Information_and_Diagnostic-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saumyagupta2025&repo=Health-Information_and_Diagnostic-System&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/saumyagupta2025/LGMVIP--DataScience" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saumyagupta2025&repo=LGMVIP--DataScience&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/saumyagupta2025/The-Sparks-Foundation-Internship-Tasks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saumyagupta2025&repo=The-Sparks-Foundation-Internship-Tasks&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
