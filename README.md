@@ -43,4 +43,4 @@ src="https://img.shields.io/twitter/follow/saumya_812?logo=twitter&style=for-the
 ### Badges
 <b>My GitHub Stats</b>
 
-<p align="left"> <a href="http://www.github.com/saumyagupta2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyagupta2025&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+<p align="center"> <a href="http://www.github.com/saumyagupta2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyagupta2025&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
