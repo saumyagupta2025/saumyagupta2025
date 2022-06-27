@@ -4,10 +4,9 @@ Hi 👋 My name is Saumya Gupta
 🌐 I’m currently learning Web Development 
 🤖 I have an experience in Machine Learning and Data Science 
 🍀 I have a knowledge of Data Structures and Algorithms.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [saumyagupta2025@gmail.com](mailto:saumyagupta2025@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects that have real world implementations.
+🌍  I'm based in India
+✉️  You can contact me at [saumyagupta2025@gmail.com](mailto:saumyagupta2025@gmail.com)
+🤝  I'm open to collaborating on interesting projects that have real world implementations.
 
 ----
 
@@ -16,6 +15,7 @@ src="https://img.shields.io/twitter/follow/saumya_812?logo=twitter&style=for-the
 /></a>
 
 ### Skills
+---
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -31,10 +31,10 @@ src="https://img.shields.io/twitter/follow/saumya_812?logo=twitter&style=for-the
 
 
 ### Socials
-
+---
 <p align="left"> <a href="https://www.github.com/saumyagupta2025" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saumya2029/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/saumya_812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 <b>My GitHub Stats</b>
-
+---
 <a href="http://www.github.com/saumyagupta2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyagupta2025&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
