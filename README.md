@@ -1,18 +1,14 @@
 Hi 👋 My name is Saumya Gupta
 =============================
 
-* 🌐 I’m currently learning Web Development 
-* 🤖 I have an experience in Machine Learning and Data Science 
-* 🍀 I have a knowledge of Data Structures and Algorithms.
-
-----
+🌐 I’m currently learning Web Development 🤖 I have an experience in Machine Learning and Data Science 🍀 I have a knowledge of Data Structures and Algorithms.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [saumyagupta2025@gmail.com](mailto:saumyagupta2025@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects that have real world implementations.
 
 <a href="https://www.twitter.com/saumya_812" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/saumya_812?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"
+src="https://img.shields.io/twitter/follow/saumya_812?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
 ### Skills
@@ -33,3 +29,10 @@ src="https://img.shields.io/twitter/follow/saumya_812?logo=twitter&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/saumyagupta2025" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saumya2029/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/saumya_812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/saumyagupta2025"><img src="https://activity-graph.herokuapp.com/graph?username=saumyagupta2025&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
