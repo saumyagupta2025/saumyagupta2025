@@ -5,7 +5,7 @@ Hi 👋 My name is Saumya Gupta
 🤖 I have an experience in Machine Learning and Data Science.  
 🍀 I have a knowledge of Data Structures and Algorithms.  
 
-____
+=============================
 
 * 🌍  I'm based in India.  
 * ✉️ You can contact me at [saumyagupta2025@gmail.com](mailto:saumyagupta2025@gmail.com).  
