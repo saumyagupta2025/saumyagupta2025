@@ -4,9 +4,11 @@ Hi 👋 My name is Saumya Gupta
 🌐 I’m currently learning Web Development.  
 🤖 I have an experience in Machine Learning and Data Science.  
 🍀 I have a knowledge of Data Structures and Algorithms.  
-🌍  I'm based in India.  
-✉️ You can contact me at [saumyagupta2025@gmail.com](mailto:saumyagupta2025@gmail.com).  
-🤝  I'm open to collaborating on interesting projects that have real world implementations.
+
+* 🌍  I'm based in India.  
+* ✉️ You can contact me at [saumyagupta2025@gmail.com](mailto:saumyagupta2025@gmail.com).  
+* 🤝  I'm open to collaborating on interesting projects that have real world implementations.
+
 
 
 
