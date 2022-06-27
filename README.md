@@ -5,14 +5,15 @@ Hi 👋 My name is Saumya Gupta
 🤖 I have an experience in Machine Learning and Data Science.  
 🍀 I have a knowledge of Data Structures and Algorithms.  
 
-=============================
+
+-----
 
 * 🌍  I'm based in India.  
 * ✉️ You can contact me at [saumyagupta2025@gmail.com](mailto:saumyagupta2025@gmail.com).  
 * 🤝  I'm open to collaborating on interesting projects that have real world implementations.
 
 
-
+---
 
 <a href="https://www.twitter.com/saumya_812" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/saumya_812?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
