@@ -40,7 +40,7 @@ src="https://img.shields.io/twitter/follow/saumya_812?logo=twitter&style=for-the
 <p align="left"> <a href="https://www.github.com/saumyagupta2025" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saumya2029/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/saumya_812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
-### Badges
+
 <b>My GitHub Stats</b>
 
 <p align="center"> <a href="http://www.github.com/saumyagupta2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyagupta2025&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
