@@ -1,7 +1,7 @@
 Hi 👋 My name is Saumya Gupta
 =============================
 
-🌐 I’m currently learning Web Development.  
+🌐 I’m currently learning Agentic AI and Multimodal RAG Architectures.  
 🤖 I have working experience in Machine Learning and Data Science.  
 🍀 I have good knowledge of Data Structures and Algorithms.  
 
